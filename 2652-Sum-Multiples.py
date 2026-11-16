@@ -1,4 +1,3 @@
-from typing import List
 class Solution:
     def sumOfMultiples(self, n: int) -> int:
         # 求 1 ~ n 中所有 k 的倍数之和
