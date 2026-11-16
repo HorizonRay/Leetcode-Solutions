@@ -1,4 +1,3 @@
-from typing import List
 class Solution:
     def letterCombinations(self, digits: str) -> list[str]:
         # 字典模拟哈希表映射
