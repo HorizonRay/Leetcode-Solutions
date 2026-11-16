@@ -1,4 +1,3 @@
-from typing import List
 class Solution:
     def maxRepeating(self, sequence: str, word: str) -> int:
         k=1
